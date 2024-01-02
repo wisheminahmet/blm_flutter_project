@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897949585313",
+    "project_id": "flutterlogin-976c3",
+    "storage_bucket": "flutterlogin-976c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897949585313:android:36be084ab280140006c5e0",
+        "android_client_info": {
+          "package_name": "com.example.deneme2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbl5Wz0xAyEw1uORR8d_Pw5uegg5NuaC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
